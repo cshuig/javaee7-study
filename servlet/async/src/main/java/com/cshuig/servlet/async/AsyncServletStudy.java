@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletResponse;
  *	1、
  *	2、
  * }
- * 备注信息	:
+ * 备注信息	:git测试
  **/
 @WebServlet(urlPatterns = "/asyncServletStudy" ,asyncSupported = true)
 public class AsyncServletStudy extends HttpServlet{
